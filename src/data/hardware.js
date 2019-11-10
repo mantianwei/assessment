@@ -1,0 +1,156 @@
+export default [
+    {
+        key: "chair1",
+        type:"工作椅",
+        name: "作业椅面高度",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"5",
+        src:'/static/5.jpeg'
+    },
+    {
+        key: "chair2",
+        type:"工作椅",
+        name: "座面倾角",
+        min:"0°",
+        opt:"XXX°",
+        max:"5°",
+        norm:"GB/T 14774-93",
+        level:"4",
+        src:'/static/5.jpeg'
+    },
+    {
+        key: "chair3",
+        type:"工作椅",
+        name: "座深",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"4",
+        src:'/static/5.jpeg'
+    },
+    {
+        key: "chair4",
+        type:"工作椅",
+        name: "座宽",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"4",
+        src:'/static/5.jpeg'
+    },
+    {
+        key: "chair5",
+        type:"工作椅",
+        name: "座椅与工作台间距",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"3",
+        src:'/static/5.jpeg'
+    },
+    {
+        key: "chair6",
+        type:"工作椅",
+        name: "背靠倾角",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"2",
+        src:'/static/5.jpeg'
+    },
+    {
+        key: "equip1",
+        type:"显示设备",
+        name: "显示器布局",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"5",
+         src:'/static/6.jpg'
+    },
+    {
+        key: "equip2",
+        type:"显示设备",
+        name: "控制器关系",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"5",
+        src:'/static/6.jpg'
+    },
+    {
+        key: "equip3",
+        type:"显示设备",
+        name: "显示与亮度",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"5",
+         src:'/static/6.jpg'
+    },
+    {
+        key: "equip4",
+        type:"显示设备",
+        name: "照明环境下",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"5",
+        src:'/static/6.jpg'
+    },
+    {
+        key: "equip5",
+        type:"显示设备",
+        name: "标示、编码",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"5",
+         src:'/static/6.jpg'
+    },
+    {
+        key: "equip6",
+        type:"显示设备",
+        name: "字符清晰度",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"5",
+        src:'/static/6.jpg'
+    },
+    {
+        key: "screen1",
+        type:"视域",
+        name: "与显示器距离",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"5",
+         src:'/static/6.jpg'
+    },
+    {
+        key: "screen2",
+        type:"视域",
+        name: "与显示器视线倾角",
+        min:"360mm",
+        opt:"XXXmm",
+        max:"480mm",
+        norm:"GB/T 14774-93",
+        level:"5",
+        src:'/static/6.jpg'
+    },
+]

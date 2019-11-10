@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+body{
+ 
+    background-color: rgb(214, 0, 0)
+}
+.header{
+    height: 68px;
+    line-height: 68px;
+    background: rgba(0,0,0,.8);
+    color: #fff;
+}
+.header-title{
+    padding: 0 32px;
+    float: left;
+    color: rgb(65, 65, 65);
+    font-size: 20px;
+}
+.header-menu{
+    float: right;
+    margin-right: 32px;
+}
+.header-menu-left{
+    color: rgb(0, 0, 0);
+    padding: 5px;
+}
+.header-menu-left span{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+    text-align: center;
+    border-radius: 50%;
+    background: #ff5500;
+    color: #fff;
+    font-size: 12px;
+}
